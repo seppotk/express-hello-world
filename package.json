@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Express Hello World on Render",
   "main": "app.js",
-  "repository": "https://git.heroku.com/stormy-atoll-55057.git",
+  "repository": "https://github.com/seppotk/express-hello-world.git",
   "author": "Render Developers",
   "license": "MIT",
   "private": false,
